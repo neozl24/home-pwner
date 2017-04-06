@@ -1,0 +1,24 @@
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "34v-dM-IWy"; */
+"34v-dM-IWy.title" = "Item";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "3mT-U1-X7r"; */
+"3mT-U1-X7r.text" = "姓名";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ba5-ev-gXl"; */
+"Ba5-ev-gXl.text" = "Label";
+
+/* Class = "UITextField"; text = "Value"; ObjectID = "EHc-va-qoG"; */
+"EHc-va-qoG.text" = "价格";
+
+/* Class = "UILabel"; text = "Serial"; ObjectID = "Vd9-29-Bqr"; */
+"Vd9-29-Bqr.text" = "序列号";
+
+/* Class = "UILabel"; text = "Value"; ObjectID = "m3s-Ta-3Gu"; */
+"m3s-Ta-3Gu.text" = "Value";
+
+/* Class = "UITextField"; text = "Name"; ObjectID = "x5J-r5-VKN"; */
+"x5J-r5-VKN.text" = "Name";
+
+/* Class = "UITextField"; text = "Serial"; ObjectID = "zn7-tZ-8Uf"; */
+"zn7-tZ-8Uf.text" = "Serial";
